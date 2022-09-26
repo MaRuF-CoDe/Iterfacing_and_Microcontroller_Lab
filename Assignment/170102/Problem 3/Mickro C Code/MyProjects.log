@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"C:\Users\alenm\Desktop\4-2\Interfacing and Microcontroller Sessional\MyProjects.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\alenm\Desktop\4-2\Interfacing and Microcontroller Sessional\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProjects.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProjects.c
+diagnostics: 143	123	Compiled Successfully	MyProjects.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 103 (29%)  Free RAM (bytes): 249 (71%)	Used RAM (bytes): 103 (29%)  Free RAM (bytes): 249 (71%)
+hint: 0	1144	Used ROM (program words): 1126 (14%)  Free ROM (program words): 7066 (86%)	Used ROM (program words): 1126 (14%)  Free ROM (program words): 7066 (86%)
+diagnostics: 0	125	Project Linked Successfully	MyProjects.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'MyProjects.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 23 Sep 2022, 15:59:49	MyProjects.mcppi
